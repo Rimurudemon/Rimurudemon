@@ -2,11 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on learning coding
-  
+- 🔭 I’m currently working on advancing in Cybersecurity
 - 🌱 I’m currently learning pyhton,cpp
-- 🤔 I’m looking for help with trainers for beginners
+- 🤔 I’m also dipping in the world of deep learning 
 - ⚡ Fun fact: ANIME IS THE BEST
-- Freshman at IIT MANDI
+- Sophomore at IIT MANDI
 - 
 
